@@ -1,0 +1,26 @@
+.contact-card{
+    width: 400px;
+    padding: 5px;
+    margin-top: 20px;
+    border-radius: 15px;
+    background-color:#66ff99;
+    box-shadow: 0 0 5px black;
+    position: relative;
+}
+.icon-delete-contact{
+
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+    cursor: pointer;
+    box-shadow: 0 0 5px black;
+    padding: 3px;
+    border-radius:3px;
+    
+}
+.contact-name{
+    font-size: 20px;
+}
+.m-2{
+    margin: 2px;
+}

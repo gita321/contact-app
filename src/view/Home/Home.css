@@ -1,0 +1,55 @@
+/*
+ dark:#2db300
+light:#9fff80
+ secondaey:#2db300
+*/
+
+body{
+    background-color:#b3ffcc ;
+}
+
+
+
+
+.app-title{
+    text-align: center;
+    color:#2db300;
+    font-size: 40px;
+}
+
+.contact-container{
+   
+}
+.add-contact-container{
+   
+}
+.app-body{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.sub-heading{
+    text-align: center;
+    font-size: 30px;
+}
+.user-input{
+    display: block;
+    font-size: 25px;
+    padding: 5px;
+    margin: 30px;
+    border-radius: 5px;
+    border: 1px solid #2db300;
+    
+}
+.btn-add-contact{
+    display: block;
+    font-size: 30px;
+    margin: 30px auto;
+    padding: 10px 30px;
+    background-color: #2db300;
+    color:white;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+}
